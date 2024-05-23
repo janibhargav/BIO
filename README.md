@@ -24,14 +24,22 @@ Gained foundational experience in Android development, contributing to various p
 
 📱 Notable Projects
 
-InShape: Cross-platform fitness app with localization, nutrition, and workout plans. (Flutter)
-Visit Replay: Doctor appointment app with session recording and transcription. (Flutter)
-Spec-Ecommerce (Food App): Online food ordering platform with seamless user experience. (Flutter)
-ADANI Spot Billing App: Offline-support billing application for gas meter readings. (Kotlin)
-LaughScape: Music streaming and editing app with in-app subscriptions. (Kotlin)
-OzTruck: Truck driver application with social media integration and offline support. (React Native)
-Customer Guide Using Beacons: Retail app utilizing beacon technology for personalized content. (Kotlin, Python)
-PharmaSolution: ERP system for pharmaceutical companies with extensive features for sales leaders and chemists. (React Native)
+**InShape**: Cross-platform fitness app with localization, nutrition, and workout plans. (Flutter)
+
+**Visit Replay**: Doctor appointment app with session recording and transcription. (Flutter)
+
+**Spec-Ecommerce (Food App)**: Online food ordering platform with seamless user experience. (Flutter)
+
+**ADANI Spot Billing App**: Offline-support billing application for gas meter readings. (Kotlin)
+
+**LaughScape**: Music streaming and editing app with in-app subscriptions. (Kotlin)
+
+**OzTruck**: Truck driver application with social media integration and offline support. (React Native)
+
+**Customer Guide Using Beacons**: Retail app utilizing beacon technology for personalized content. (Kotlin, Python)
+
+**PharmaSolution**: ERP system for pharmaceutical companies with extensive features for sales leaders and chemists. (React Native)
+
 
 🎓 Education
 
